@@ -1,0 +1,38 @@
+[
+  {
+    "user": "John Doe",
+    "address": "Sector 2",
+    "time": "2 min ago",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus animi architecto assumenda veritatis error.",
+    "likes": "2k",
+    "views": "3k",
+    "comments": "1k"
+  },
+  {
+    "user": "Jane Doe",
+    "address": "Sector 2",
+    "time": "2 min ago",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus animi architecto assumenda veritatis error.",
+    "likes": "2.5k",
+    "views": "6k",
+    "comments": "2k"
+  },
+  {
+    "user": "John Doe",
+    "address": "Sector 2",
+    "time": "2 min ago",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus animi architecto assumenda veritatis error.",
+    "likes": "6.4k",
+    "views": "9k",
+    "comments": "4k"
+  },
+  {
+    "user": "Jane Doe",
+    "address": "Sector 2",
+    "time": "2 min ago",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus animi architecto assumenda veritatis error.",
+    "likes": "3.2k",
+    "views": "5k",
+    "comments": "3k"
+  }
+]

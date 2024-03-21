@@ -1,0 +1,17 @@
+[
+  {
+    "img": "/img/sunset1/jpg",
+    "title": "The Coldest Sunset",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus animi architecto.."
+  },
+  {
+    "img": "/img/sunset2/jpg",
+    "title": "Beautiful Sunset",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus animi."
+  },
+  {
+    "img": "/img/sunset3/jpg",
+    "title": "Amazing Sunset",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus animi architecto."
+  }
+]
