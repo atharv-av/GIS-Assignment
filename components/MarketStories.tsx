@@ -45,7 +45,7 @@ const MarketStories: React.FC = () => {
               alt="Sunset"
               height={20}
               width={240}
-              className="lg:w-fit w-full"
+              className="w-full"
             />
             <div className="flex flex-col w-full gap-1 p-4">
               <p className="lg:text-lg md:text-xl text-base font-semibold">
